@@ -1,6 +1,7 @@
-- Forward Substitution
-- Backward Substitution
-- LU Decomposition with Partial Pivoting and Permutation matrix
-- Partial pivoting 
-- Cholesky
+- Forward Substitution                                                 --> forsub()
+- Backward Substitution (vectorized & non-vectorized version)          --> backsub(), bacosub_slow()
+- File for testing the times of vectorized and non-vectorized backsub  --> 
+- LU Decomposition with Partial Pivoting and Permutation matrix        --> plu()
+- General linear systems solver                                        --> ainvb()
+- Cholesky vs ainvb()
 - Complete pivoting
