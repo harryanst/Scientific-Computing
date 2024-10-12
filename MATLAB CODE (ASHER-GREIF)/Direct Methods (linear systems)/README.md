@@ -4,4 +4,4 @@
 - LU Decomposition with Partial Pivoting and Permutation matrix &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;--> plu()
 - General linear systems solver &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; --> ainvb()
 - Cholesky vs ainvb() 
-- Complete pivoting example
+- Complete pivoting theoretical example
