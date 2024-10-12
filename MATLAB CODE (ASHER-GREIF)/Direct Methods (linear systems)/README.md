@@ -2,6 +2,6 @@
 - Backward Substitution (vectorized & non-vectorized version) &emsp;&emsp;&emsp;&emsp; --> backsub(), bacosub_slow()
 - File for testing the times of vectorized and non-vectorized backsub &emsp;&emsp; --> 
 - LU Decomposition with Partial Pivoting and Permutation matrix &emsp;&emsp;&emsp;&emsp; --> plu()
-- General linear systems solver &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; --> ainvb()
+- General linear systems solver &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; --> ainvb()
 - Cholesky vs ainvb() 
 - Complete pivoting 
