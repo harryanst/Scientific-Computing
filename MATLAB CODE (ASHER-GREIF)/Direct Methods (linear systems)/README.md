@@ -1,4 +1,4 @@
-- Forward Substitution &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; --> forsub()
+- Forward Substitution &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; --> forsub()
 - Backward Substitution (vectorized & non-vectorized version) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; --> backsub(), bacosub_slow()
 - File for testing the times of vectorized and non-vectorized backsub + output &emsp;&emsp; --> backsub_slow_vs_fast(), time measurements
 - LU Decomposition with Partial Pivoting and Permutation matrix &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;--> plu()
