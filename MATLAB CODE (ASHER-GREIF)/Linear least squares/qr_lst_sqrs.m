@@ -14,7 +14,7 @@ num_rows = size(Q,1);
 % extracting matrix R
 R = T(1:num_columns, 1:num_columns)
 
-% Multiplying matrix A and vector b with A'
+% Multiplying both matrix A and vector b with A'
 term1 = Q'*A;
 term2 = Q'*b;
 
